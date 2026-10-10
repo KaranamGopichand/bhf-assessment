@@ -105,6 +105,14 @@ Manual checks to repeat before submission:
 6. Open an unknown product URL and check the not-found screen.
 7. Check the layout in a narrow browser window.
 
+## Dependency audit
+
+PostCSS is overridden to version 8.5.29, and the production build passes.
+
+npm audit reports five high-severity findings in the development-only
+ESLint dependency chain involving braces. These remain unresolved.
+The suggested automatic fix downgrades eslint-config-next to version 14,
+so it was not applied to this Next.js 15 project.
 
 
 ## AI assistance
