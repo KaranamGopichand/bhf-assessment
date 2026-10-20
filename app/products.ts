@@ -20,4 +20,36 @@ export const products = [
     price: 32,
     description: "A decorative cushion with a simple striped design.",
   },
+
+  {
+    id: "cotton sheet",
+    name: "cotton sheet",
+    category: "sheets",
+    price: 20,
+    description: "A decorative cushion with a simple striped design.",
+  },
+
+  {
+    id: "perfume",
+    name: "perfume",
+    category: "cosmetics",
+    price: 30,
+    description: "A decorative cushion with a simple striped design.",
+  },
+
+  {
+    id: "Jewel",
+    name: "Stripe Cushion",
+    category: "Cushions",
+    price: 32,
+    description: "A decorative cushion with a simple striped design.",
+  },
+
+  {
+    id: "velvet",
+    name: "velvet",
+    category: "pillow",
+    price: 23,
+    description: "A decorative cushion with a simple striped design.",
+  },
 ];

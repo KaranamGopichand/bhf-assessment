@@ -125,6 +125,6 @@ application locally, including the product pages and shortlist feature.
 ## Approximate time spent
 
 
-Approximately 1 hour 50 minutes on project setup, implementing the catalog and
+Approximately 1 hour 5 0 minutes on project setup, implementing the catalog and
 shortlist functionality , testing the main user flows,
 and preparing the documentation.
